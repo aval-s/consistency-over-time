@@ -1,1 +1,4 @@
-# consistency-over-time
+# 📘 Daily Coding Challenge
+
+## 🚀 Commitment
+
