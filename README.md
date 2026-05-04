@@ -1,8 +1,4 @@
-# 📘 Daily Coding Challenge
-
-## 🚀 Commitment
-
-Starting **February 2, 2026**, I’m committing to solving **1 problem every day** to strengthen my problem-solving and data skills.
+# 📘 Coding 
 
 ## 🧠 What I’m Working On
 
